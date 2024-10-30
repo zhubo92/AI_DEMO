@@ -1,0 +1,11 @@
+{
+  "name": "ai_demo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "朱波",
+  "license": "ISC",
+  "description": "一个真正的人工智能，纯中国制造，谁用谁知道"
+}
